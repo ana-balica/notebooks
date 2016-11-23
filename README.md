@@ -1,2 +1,3 @@
-# notebooks
-Collection of my Jupyter noterbooks used for educational purposes
+# Educational notebooks
+
+This is a collection of my Jupyter notebooks used for educational purposes.
